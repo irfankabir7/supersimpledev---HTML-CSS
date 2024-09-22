@@ -1,0 +1,36 @@
+div{
+  font-family: Arial;
+}
+
+.header{
+  background-color: rgb(120, 82, 178);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 15px;
+}
+
+.home{
+  font-weight: bold;
+}
+
+.text-box{
+  width: 500px;
+  border: none;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 20px;
+}
+button {
+  background-color: rgb(120, 82, 178);
+  color: white;
+  padding: 8px 15px;
+  font-size: 16px;
+  border-color: white;
+  border-style: solid;
+  
+}

@@ -1,0 +1,22 @@
+.apply{
+  color: white;
+  font-weight: bold;
+  background-color: rgb(10,102,194);
+  border: none;
+  border-radius: 16px;
+  width: 200px;
+  height: 40px;
+  cursor: pointer;
+}
+.save{
+  color: rgb(10,102,194);
+  font-weight: bold;
+  background-color: white;
+  border-color: rgb(10,102,194);
+  border: solid;
+  border-radius: 16px;
+  width: 80px;
+  height: 40px;
+  cursor: pointer;
+  margin-left: 4px;
+}

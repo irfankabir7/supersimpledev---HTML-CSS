@@ -1,0 +1,33 @@
+    
+.kitten-pic{
+  width:50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: 55% center;
+  border-radius: 50px;
+ vertical-align: middle;
+}
+
+input{
+  border: none;
+  padding: 0px 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+  vertical-align: middle;
+  margin-left: 5px;
+  width: 300px;
+}
+.tweet-button{
+  background-color: rgb(29,161, 242);
+  border: none;
+  font-size: 20px;
+  padding: 0px 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 10px 20px;
+  border-radius: 50px;
+  color: white;
+  vertical-align: middle;
+  font-weight: bold;
+}

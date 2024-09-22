@@ -1,0 +1,19 @@
+button{
+  background-color: rgb(255, 216, 20);
+  border-width: 10px;
+  color:black;
+  height: 50px;
+  width: 200px;
+  border-style: solid;
+  border-color: beige;
+  border-radius: 100px;
+  border:none;
+  cursor: pointer;
+  transition: 0.15;
+}
+button:hover{
+  background-color: rgb(227, 189, 2);
+}
+button:active{
+  opacity: 0.8;
+}

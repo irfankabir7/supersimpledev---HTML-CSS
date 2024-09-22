@@ -1,0 +1,29 @@
+.get-start{
+  color:white;
+  background-color: rgb(121,82,179);
+  border-radius: 5px;
+  border: none;
+  width: 130px;
+  height: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.15;
+}
+.get-start:hover{
+  background-color: rgb(112, 71, 174);
+}
+.download{
+  color: rgb(108,117,125);
+  background-color: white;
+  border-radius: 5px;
+  width: 130px;
+  height: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  border: solid;
+  transition: background-color 0.15s,color 0.15s;
+}
+.download:hover{
+  background-color:rgb(108,117,125);
+  color: white;
+}

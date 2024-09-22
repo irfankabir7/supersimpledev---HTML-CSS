@@ -1,0 +1,67 @@
+div{
+  font-family: Arial;
+}
+
+.mail-box{
+  width: 400px;
+  box-shadow: 0px 0px 5px rgb(0,0,0,0.25);
+  padding: 10px 15px;
+ border-radius: 4px;
+ margin-top: 20px;
+ margin-left: 20px;
+}
+
+.inbox-label{
+  color: rgb(120,120,120);
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.email{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.sender-picture-container{
+  margin-right: 10px;
+}
+
+.profile-pic{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+}
+
+.email-content{
+    flex: 1;
+}
+
+.email-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+}
+
+.sender-name{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.send-time{
+  color: rgb(120,120,120);
+  font-size: 14px;
+}
+
+.subject{
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.message{
+  color: rgb(120,120,120);
+}

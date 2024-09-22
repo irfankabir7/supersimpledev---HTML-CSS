@@ -1,0 +1,13 @@
+
+p{
+  font-family: arial;
+}
+.service-div{
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px 10px;
+  width: 300px;
+  border-color: rgb(150, 150, 150);
+  padding-left: 15px;
+  padding-bottom: 20px;
+}

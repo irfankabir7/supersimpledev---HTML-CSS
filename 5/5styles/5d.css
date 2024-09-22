@@ -1,0 +1,22 @@
+
+p{
+  font-family: arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+.sub-title{
+  font-size: 17px;
+  margin-bottom: 16px;
+  padding-left: 80px;
+  
+}
+.more{
+  padding-left: 150px;
+ color: rgb(58, 108, 199);
+ font-size: 17px;
+}

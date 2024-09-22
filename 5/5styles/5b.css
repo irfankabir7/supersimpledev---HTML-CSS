@@ -1,0 +1,14 @@
+.deal-font{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0;
+  margin-bottom: 5px;
+  font-family: arial;
+}
+.sales-font{
+  font-family: Arial;
+  font-size: 20px;
+  color: red;
+  margin-top: 0;
+  font-style: italic;
+}

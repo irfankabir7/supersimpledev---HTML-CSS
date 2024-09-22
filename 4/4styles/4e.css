@@ -1,0 +1,45 @@
+.apply{
+  color: white;
+  font-weight: bold;
+  background-color: rgb(10,102,194);
+  border: none;
+  border-radius: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  vertical-align: top;
+  font-size: 15px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.apply:hover{
+  background-color:rgb(5, 70, 136) ;
+}
+.apply:active{
+ opacity: 0.8;
+}
+
+.save{
+  color: rgb(10,102,194);
+  font-weight: bold;
+  background-color: white;
+  border-color: rgb(10,102,194);
+  border: solid;
+  border-radius: 25px;
+  border-width: 2px;
+  border-radius: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  vertical-align: top;
+  font-size: 15px;
+  cursor: pointer;
+  margin-left: 6px;
+}
+.save:hover{
+  background-color: rgb(186, 220, 255);
+  border-width: 3px;
+}
